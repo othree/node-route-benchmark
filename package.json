@@ -1,0 +1,17 @@
+{
+    "name": "node-route-bench",
+    "version": "0.0.1",
+    "homepage": "https://github.com/othree/node-route-benchmark",
+    "repository": "https://github.com/othree/node-route-benchmark.git",
+    "author": "othree (https://github.com/othree)",
+    "main": "./bench.js",
+    "keywords": [
+        "node",
+        "router"
+    ],
+    "dependencies": {
+        "director": "*"
+    },
+    "license": "MIT"
+}
+
